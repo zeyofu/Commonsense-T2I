@@ -1,4 +1,4 @@
-# <img src="assets/icon-removebg-preview.png" width="40" /> Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?
+# <img src="assets/icon.png" width="40" /> Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?
 This repo contains code for the paper "[Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?](https://zeyofu.github.io/CommonsenseT2I/)" **[COLM 2024]**
 
 [**🌐 Homepage**](https://zeyofu.github.io/CommonsenseT2I/) | [**🤗 Dataset**](https://huggingface.co/datasets/CommonsenseT2I/CommonsensenT2I) | [**📑 Paper**](https://arxiv.org/pdf/2406.07546) | [**💻 Code**](https://github.com/zeyofu/Commonsense-T2I) | [**📖 arXiv**](https://arxiv.org/pdf/2406.07546) | [**𝕏 Twitter**](https://twitter.com/XingyuFu2/status/1801369092944969736)
