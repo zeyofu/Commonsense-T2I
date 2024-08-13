@@ -48,8 +48,7 @@ An example output is provided in ```example_visualization_dalle.html```, check i
 
 ## Saved outputs
 [Output visualizations](https://zeyofu.github.io/CommonsenseT2I/) can be found for the text-to-image models tested in our paper, e.g. [DALL-E 3 outputs](https://zeyofu.github.io/CommonsenseT2I/visualization_dalle3.html), [Stable Diffusion 3 outputs](https://zeyofu.github.io/CommonsenseT2I/visualization_sd_3neg.html), and [Flux model outputs](https://zeyofu.github.io/CommonsenseT2I/visualization_flux_schenel.html). For more details, check out our paper! 
-<img src="assets/result.png" width="400" />
-
+![Alt text](assets/result.png)
 
 ## Contact
 - Xingyu Fu: xingyuf2@seas.upenn.edu
